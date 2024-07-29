@@ -1,0 +1,11 @@
+cvzone
+filterpy
+opencv-python
+scikit-image
+ultralytics==8.0.26
+numpy
+matplotlib
+sort
+deep_sort_realtime
+scipy
+torch
